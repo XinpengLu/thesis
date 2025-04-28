@@ -1,0 +1,135 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="105">
+            <item index="0" class="java.lang.String" itemvalue="pandas" />
+            <item index="1" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="2" class="java.lang.String" itemvalue="numpy" />
+            <item index="3" class="java.lang.String" itemvalue="requests" />
+            <item index="4" class="java.lang.String" itemvalue="tabulate" />
+            <item index="5" class="java.lang.String" itemvalue="markdown-it-py" />
+            <item index="6" class="java.lang.String" itemvalue="dm-env" />
+            <item index="7" class="java.lang.String" itemvalue="sphinxcontrib-qthelp" />
+            <item index="8" class="java.lang.String" itemvalue="docutils" />
+            <item index="9" class="java.lang.String" itemvalue="lxml" />
+            <item index="10" class="java.lang.String" itemvalue="shortuuid" />
+            <item index="11" class="java.lang.String" itemvalue="jax" />
+            <item index="12" class="java.lang.String" itemvalue="gymnasium" />
+            <item index="13" class="java.lang.String" itemvalue="pexpect" />
+            <item index="14" class="java.lang.String" itemvalue="click" />
+            <item index="15" class="java.lang.String" itemvalue="nbconvert" />
+            <item index="16" class="java.lang.String" itemvalue="attrs" />
+            <item index="17" class="java.lang.String" itemvalue="contourpy" />
+            <item index="18" class="java.lang.String" itemvalue="psutil" />
+            <item index="19" class="java.lang.String" itemvalue="jupyter_server" />
+            <item index="20" class="java.lang.String" itemvalue="imageio" />
+            <item index="21" class="java.lang.String" itemvalue="msgpack" />
+            <item index="22" class="java.lang.String" itemvalue="referencing" />
+            <item index="23" class="java.lang.String" itemvalue="pluggy" />
+            <item index="24" class="java.lang.String" itemvalue="Shimmy" />
+            <item index="25" class="java.lang.String" itemvalue="jupyter-events" />
+            <item index="26" class="java.lang.String" itemvalue="mujoco-py" />
+            <item index="27" class="java.lang.String" itemvalue="Farama-Notifications" />
+            <item index="28" class="java.lang.String" itemvalue="sphinxcontrib-devhelp" />
+            <item index="29" class="java.lang.String" itemvalue="alabaster" />
+            <item index="30" class="java.lang.String" itemvalue="flax" />
+            <item index="31" class="java.lang.String" itemvalue="stable_baselines3" />
+            <item index="32" class="java.lang.String" itemvalue="seaborn" />
+            <item index="33" class="java.lang.String" itemvalue="PyWavelets" />
+            <item index="34" class="java.lang.String" itemvalue="mdurl" />
+            <item index="35" class="java.lang.String" itemvalue="opt_einsum" />
+            <item index="36" class="java.lang.String" itemvalue="distrax" />
+            <item index="37" class="java.lang.String" itemvalue="imagesize" />
+            <item index="38" class="java.lang.String" itemvalue="torch" />
+            <item index="39" class="java.lang.String" itemvalue="mistune" />
+            <item index="40" class="java.lang.String" itemvalue="termcolor" />
+            <item index="41" class="java.lang.String" itemvalue="pathtools" />
+            <item index="42" class="java.lang.String" itemvalue="toolz" />
+            <item index="43" class="java.lang.String" itemvalue="Sphinx" />
+            <item index="44" class="java.lang.String" itemvalue="ruff" />
+            <item index="45" class="java.lang.String" itemvalue="debugpy" />
+            <item index="46" class="java.lang.String" itemvalue="optax" />
+            <item index="47" class="java.lang.String" itemvalue="pytz" />
+            <item index="48" class="java.lang.String" itemvalue="pybullet" />
+            <item index="49" class="java.lang.String" itemvalue="sphinxcontrib-applehelp" />
+            <item index="50" class="java.lang.String" itemvalue="protobuf" />
+            <item index="51" class="java.lang.String" itemvalue="pytest-instafail" />
+            <item index="52" class="java.lang.String" itemvalue="pygame" />
+            <item index="53" class="java.lang.String" itemvalue="pre-commit" />
+            <item index="54" class="java.lang.String" itemvalue="nbclient" />
+            <item index="55" class="java.lang.String" itemvalue="promise" />
+            <item index="56" class="java.lang.String" itemvalue="cycler" />
+            <item index="57" class="java.lang.String" itemvalue="gast" />
+            <item index="58" class="java.lang.String" itemvalue="snowballstemmer" />
+            <item index="59" class="java.lang.String" itemvalue="python-json-logger" />
+            <item index="60" class="java.lang.String" itemvalue="numpydoc" />
+            <item index="61" class="java.lang.String" itemvalue="tensorflow-probability" />
+            <item index="62" class="java.lang.String" itemvalue="anyio" />
+            <item index="63" class="java.lang.String" itemvalue="sympy" />
+            <item index="64" class="java.lang.String" itemvalue="notebook" />
+            <item index="65" class="java.lang.String" itemvalue="triton" />
+            <item index="66" class="java.lang.String" itemvalue="nodeenv" />
+            <item index="67" class="java.lang.String" itemvalue="h5py" />
+            <item index="68" class="java.lang.String" itemvalue="iniconfig" />
+            <item index="69" class="java.lang.String" itemvalue="kiwisolver" />
+            <item index="70" class="java.lang.String" itemvalue="sphinxcontrib-htmlhelp" />
+            <item index="71" class="java.lang.String" itemvalue="fonttools" />
+            <item index="72" class="java.lang.String" itemvalue="jaxlib" />
+            <item index="73" class="java.lang.String" itemvalue="virtualenv" />
+            <item index="74" class="java.lang.String" itemvalue="sphinxcontrib-jquery" />
+            <item index="75" class="java.lang.String" itemvalue="distlib" />
+            <item index="76" class="java.lang.String" itemvalue="gym" />
+            <item index="77" class="java.lang.String" itemvalue="cfgv" />
+            <item index="78" class="java.lang.String" itemvalue="dm_control" />
+            <item index="79" class="java.lang.String" itemvalue="ptyprocess" />
+            <item index="80" class="java.lang.String" itemvalue="pyrallis" />
+            <item index="81" class="java.lang.String" itemvalue="mypy-extensions" />
+            <item index="82" class="java.lang.String" itemvalue="ipdb" />
+            <item index="83" class="java.lang.String" itemvalue="wandb" />
+            <item index="84" class="java.lang.String" itemvalue="tomli" />
+            <item index="85" class="java.lang.String" itemvalue="jupyterlab" />
+            <item index="86" class="java.lang.String" itemvalue="Cython" />
+            <item index="87" class="java.lang.String" itemvalue="six" />
+            <item index="88" class="java.lang.String" itemvalue="identify" />
+            <item index="89" class="java.lang.String" itemvalue="importlib_resources" />
+            <item index="90" class="java.lang.String" itemvalue="pytest" />
+            <item index="91" class="java.lang.String" itemvalue="sphinx-rtd-theme" />
+            <item index="92" class="java.lang.String" itemvalue="sphinxcontrib-serializinghtml" />
+            <item index="93" class="java.lang.String" itemvalue="tzdata" />
+            <item index="94" class="java.lang.String" itemvalue="carla" />
+            <item index="95" class="java.lang.String" itemvalue="rich" />
+            <item index="96" class="java.lang.String" itemvalue="packaging" />
+            <item index="97" class="java.lang.String" itemvalue="tqdm" />
+            <item index="98" class="java.lang.String" itemvalue="labmaze" />
+            <item index="99" class="java.lang.String" itemvalue="typing-inspect" />
+            <item index="100" class="java.lang.String" itemvalue="chex" />
+            <item index="101" class="java.lang.String" itemvalue="fasteners" />
+            <item index="102" class="java.lang.String" itemvalue="sphinxcontrib-jsmath" />
+            <item index="103" class="java.lang.String" itemvalue="dm-tree" />
+            <item index="104" class="java.lang.String" itemvalue="ImageHash" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N803" />
+          <option value="N806" />
+          <option value="N802" />
+          <option value="N801" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="bool.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
